@@ -834,6 +834,7 @@ a {
   margin: auto;
   margin-left: 0;
   margin-left: auto;
+  margin-right: 0;
 }
 .cid-uYOzyYFF2a .navbar-nav .nav-item {
   padding: 0 !important;
@@ -1358,7 +1359,7 @@ a {
 }
 @media (min-width: 768px) {
   .cid-uYOy9QcHxC {
-    align-items: flex-end;
+    align-items: center;
   }
   .cid-uYOy9QcHxC .row {
     justify-content: center;
@@ -1375,7 +1376,7 @@ a {
 @media (max-width: 767px) {
   .cid-uYOy9QcHxC {
     -webkit-align-items: center;
-    align-items: flex-end;
+    align-items: center;
   }
   .cid-uYOy9QcHxC .mbr-row {
     -webkit-justify-content: center;
